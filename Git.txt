@@ -1,3 +1,4 @@
 1. VCS(Git) - Version control system - It creates a versions for your modification of code.!
 2. SCM(Github) - Source code management - It stores the repositaries at remote location to able to give access
 		 for multiple users.
+3. Git bash - Access the repositaory by right clicking at any folder or desktop you'll get gitbash option.
