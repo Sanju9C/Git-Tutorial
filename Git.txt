@@ -2,3 +2,30 @@
 2. SCM(Github) - Source code management - It stores the repositaries at remote location to able to give access
 		 for multiple users.
 3. Git bash - Access the repositaory by right clicking at any folder or desktop you'll get gitbash option.
+
+4. $ git clone <URL>                                         - To get access repository from git.
+
+5. $ cd <reponame/>                                          - To change repository
+
+6. $ ls                                                      - list out the files
+
+7. $ git pull                                                - Pull the current files from github repository
+
+8. $ cat <FileName>                                          - To open particular file
+
+9. $ git status                                              - To show status of changed and created files
+
+10. $ git add <fileName>                                     - To add file to stagging area
+
+11. $ git commit "<your message>"                            - For add files    
+
+12. $ git commit -m "<your message>" <file_path 1> <file_path2> - For modified files.
+
+13. $ git rm <filename> 
+
+14. $ git push orgin <branchName>                               - Push files to Github
+
+15. $ git remote -v                                             - Pushing to which repositaory info.
+
+16. 
+ 
