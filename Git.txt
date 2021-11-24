@@ -1,4 +1,4 @@
-1. VCS(Git) - Version control system - It creates a versions for your modification of code.!
+$1. VCS(Git) - Version control system - It creates a versions for your modification of code.!
 2. SCM(Github) - Source code management - It stores the repositaries at remote location to able to give access
 		 for multiple users.
 3. Git bash - Access the repositaory by right clicking at any folder or desktop you'll get gitbash option.
@@ -27,5 +27,26 @@
 
 15. $ git remote -v                                             - Pushing to which repositaory info.
 
-16. 
- 
+16. $ git add .                                                 - Add all files in director
+
+17. Main branch is used as final product of the project, whatever changes made in sub branches it will pull by requests to the main.
+
+18. $ git branch                                                - Current branches
+
+19. $ git branch <name>                                         - Create branch
+
+20. $ git checkout <name>                                       - switch to another branch
+
+21. clear                                                       - clear screen
+
+22. $ git checkout -b <name>                                    - create and switch to that branch.
+
+23. $ git branch -m <oldname> <newname>                         - Modify branch name
+
+24. $ git branch -m <name>                                      - Modify current branch name
+
+25. $ git merge <branch name>                                   - Your current branch will merge with that new branch
+
+26. .gitignore - exclude particular files from commiting.
+
+27. Default branch can be changed in going through into branches in github. 
